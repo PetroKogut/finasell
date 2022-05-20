@@ -1,47 +1,15 @@
 ## Finasell
 
-You can use the [editor on GitHub](https://github.com/System-aero/finasell/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/System-aero/finasell/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
----
 title: Хто і чим корисний?
-slug: finasell
-date_published: 2022-02-04T17:40:18.000Z
-date_updated: 2022-02-15T19:39:53.000Z
----
+
 
 Менеджер з експорту 🌍. Допомагаю B2B компаніям експортувати. Знаходжу клієнтів, організую поставки та оплати. Беру на себе участь в тендерах та виставках.
 ![](__GHOST_URL__/content/images/2022/01/IMG_4572.jpeg)100$ в узбецьких сомах. До валютної реформи 2017 року існував потужний чорний ринок валюти.
@@ -211,116 +179,6 @@ date_updated: 2022-02-15T19:39:53.000Z
 
 до яких  я продав не менше ніж на 10 000 EUR
 
-<script src="https://www.amcharts.com/lib/3/ammap.js" type="text/javascript"></script>
-<script src="https://www.amcharts.com/lib/3/maps/js/worldHigh.js" type="text/javascript"></script>
-<script src="https://www.amcharts.com/lib/3/themes/dark.js" type="text/javascript"></script>
-<div id="mapdiv" style="width: 780; height: 450px;"></div>
-<div style="width: 780; font-size: 70%; padding: 5px 0; text-align: center; background-color: #535364; margin-top: 1px; color: #B4B4B7;"><a href="https://www.amcharts.com/visited_countries/" style="color: #B4B4B7;">Create your own visited countries map</a> or check out the <a href="https://www.amcharts.com/" style="color: #B4B4B7;">JavaScript Charts</a>.</div>
-<script type="text/javascript">
-var map = AmCharts.makeChart("mapdiv",{
-type: "map",
-theme: "dark",
-projection: "mercator",
-panEventsEnabled : true,
-backgroundColor : "#535364",
-backgroundAlpha : 1,
-zoomControl: {
-zoomControlEnabled : true
-},
-dataProvider : {
-map : "worldHigh",
-getAreasFromMap : true,
-areas :
-[
-	{
-		"id": "AZ",
-		"showAsSelected": true
-	},
-	{
-		"id": "BY",
-		"showAsSelected": true
-	},
-	{
-		"id": "BG",
-		"showAsSelected": true
-	},
-	{
-		"id": "CZ",
-		"showAsSelected": true
-	},
-	{
-		"id": "EE",
-		"showAsSelected": true
-	},
-	{
-		"id": "FR",
-		"showAsSelected": true
-	},
-	{
-		"id": "DE",
-		"showAsSelected": true
-	},
-	{
-		"id": "HU",
-		"showAsSelected": true
-	},
-	{
-		"id": "LV",
-		"showAsSelected": true
-	},
-	{
-		"id": "LT",
-		"showAsSelected": true
-	},
-	{
-		"id": "PL",
-		"showAsSelected": true
-	},
-	{
-		"id": "RO",
-		"showAsSelected": true
-	},
-	{
-		"id": "RU",
-		"showAsSelected": true
-	},
-	{
-		"id": "SK",
-		"showAsSelected": true
-	},
-	{
-		"id": "UA",
-		"showAsSelected": true
-	},
-	{
-		"id": "CN",
-		"showAsSelected": true
-	},
-	{
-		"id": "KZ",
-		"showAsSelected": true
-	},
-	{
-		"id": "UZ",
-		"showAsSelected": true
-	}
-]
-},
-areasSettings : {
-autoZoom : true,
-color : "#B4B4B7",
-colorSolid : "#84ADE9",
-selectedColor : "#84ADE9",
-outlineColor : "#666666",
-rollOverColor : "#9EC2F7",
-rollOverOutlineColor : "#000000"
-}
-});
-</script>
-
-
-
-‌‌
 
 - Азербайджан 🇦🇿
 - Білорусь   🇧🇾
