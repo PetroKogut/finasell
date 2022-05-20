@@ -1,14 +1,6 @@
 ## Finasell
 
-
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-
-title: Хто і чим корисний?
+## Хто і чим корисний?
 
 
 Менеджер з експорту 🌍. Допомагаю B2B компаніям експортувати. Знаходжу клієнтів, організую поставки та оплати. Беру на себе участь в тендерах та виставках.
