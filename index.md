@@ -42,7 +42,7 @@
 - 📞 Онлайн розмова 60 хв.‌‌ Презентація результатів та рекомендації що робити далі. Постановка цілей на наступні етапи. 
 
 ### 🏃Вихід на ринок
-![](__GHOST_URL__/content/images/2022/01/IMG_2440.jpeg)Перший документ на столі - CFR 1. Заява про видання сертифікату резиденції для компанії в Польщі. 
+![](/finasell/docs/assets/images/IMG_2440.jpeg)Перший документ на столі - CFR 1. Заява про видання сертифікату резиденції для компанії в Польщі. 
 
 💡
 
@@ -87,7 +87,7 @@
 	Оптимально робити до 5 днів або 10 зустрічей.  Хіба що дорога в одну сторону займає цілий день. Напрклад, з Кракова в Алмати. Легко поєднати з виставкою. Можемо проїхатися разом. 
 
 ### 🚛Допомога з контрактом та першою поставкою
-![](__GHOST_URL__/content/images/2022/02/Screenshot-2022-02-08-at-18.27.39.png)Система TRACES. Вибір типу CHED для заповнення.
+![](/finasell/docs/assets/images/Screenshot-2022-02-08-at-18.27.39.png)Система TRACES. Вибір типу CHED для заповнення.
 
 💡
 
@@ -104,7 +104,7 @@
 
 ## 🔐Участь в тендері ‌
 
-![](__GHOST_URL__/content/images/2022/01/KGP_Order.jpg)
+![](/finasell/docs/assets/images/KGP_Order.jpg)
 
 Замовлення від Головного бюро поліції Польщі, відділ управління авіації - результат виграного тендеру😎
 Базові етапи:
@@ -119,13 +119,13 @@
 
 ### 🤵‍♂️ Виставка - експозиція
 
-![](__GHOST_URL__/content/images/2022/01/IMG_0054.jpeg)
+![](/finasell/docs/assets/images/IMG_0054.jpeg)
 
-![](__GHOST_URL__/content/images/2022/01/IMG_0051.jpeg)
+![](/finasell/docs/assets/images/IMG_0051.jpeg)
 
-![](__GHOST_URL__/content/images/2022/01/IMG_0050.jpeg)
+![](/finasell/docs/assets/images/IMG_0050.jpeg)
 
-![](__GHOST_URL__/content/images/2022/01/IMG_1917.jpeg)
+![](/finasell/docs/assets/images/IMG_1917.jpeg)
 
 Базові етапи:
 
@@ -153,7 +153,7 @@
 - 📞Онлайн розмова 60 хв. Звіт, нотатки та контакти
 
 ### 📦Почати продажі на  платформах
-![](__GHOST_URL__/content/images/2022/02/baselinker_-marketplace-list.png)Синхронізація товарів з платформами через Baselinker
+![](/finasell/docs/assets/images/baselinker_-marketplace-list.png)Синхронізація товарів з платформами через Baselinker
 
 💡
 
@@ -201,63 +201,63 @@
 
 ### Авіація загального призначення
 
-![](__GHOST_URL__/content/images/2022/01/tempImagetUHQSW.gif)
+![](/finasell/docs/assets/images/tempImagetUHQSW.gif)
 
-![](__GHOST_URL__/content/images/2022/01/tempImageiKqiS3.gif)
+![](/finasell/docs/assets/images/tempImageiKqiS3.gif)
 
-![](__GHOST_URL__/content/images/2022/01/tempImageHU4ebt.gif)
+![](/finasell/docs/assets/images/tempImageHU4ebt.gif)
 
 Авіоніка Garmin, Honeywell; Програми Jeppesen та SkyDemon; Запчастни та розхідні матеріали Textron Aviation, Boeing(Aviall), Orolia
 ### Обладнання та конструкції для харчової промисловості
 
-![](__GHOST_URL__/content/images/2022/01/IMG_1042.jpeg)
+![](/finasell/docs/assets/images/IMG_1042.jpeg)
 
-![](__GHOST_URL__/content/images/2022/01/IMG_1794.jpeg)
+![](/finasell/docs/assets/images/IMG_1794.jpeg)
 
-![](__GHOST_URL__/content/images/2022/01/IMG_2116.jpeg)
+![](/finasell/docs/assets/images/IMG_2116.jpeg)
 
-![](__GHOST_URL__/content/images/2022/01/IMG_3587.jpeg)
+![](/finasell/docs/assets/images/IMG_3587.jpeg)
 
-![](__GHOST_URL__/content/images/2022/01/IMG_3594.jpeg)
+![](/finasell/docs/assets/images/IMG_3594.jpeg)
 
 ### Системи водовідведення з нержавіючої сталі та промислові підлоги.
 
-![](__GHOST_URL__/content/images/2022/01/IMG_0053.jpeg)
+![](/finasell/docs/assets/images/IMG_0053.jpeg)
 
-![](__GHOST_URL__/content/images/2022/01/IMG_3983.jpeg)
+![](/finasell/docs/assets/images/IMG_3983.jpeg)
 
-![](__GHOST_URL__/content/images/2022/01/IMG_4535.jpeg)
+![](/finasell/docs/assets/images/IMG_4535.jpeg)
 
-![](__GHOST_URL__/content/images/2022/01/IMG_1794-1.jpeg)
+![](/finasell/docs/assets/images/IMG_1794-1.jpeg)
 
-![](__GHOST_URL__/content/images/2022/01/IMG_5207.jpeg)
+![](/finasell/docs/assets/images/IMG_5207.jpeg)
 
-![](__GHOST_URL__/content/images/2022/01/IMG_5471.jpeg)
+![](/finasell/docs/assets/images/IMG_5471.jpeg)
 
-![](__GHOST_URL__/content/images/2022/01/IMG_6188.jpeg)
+![](/finasell/docs/assets/images/IMG_6188.jpeg)
 
 ### Сауни
 
-![](__GHOST_URL__/content/images/2022/01/IMG_0080.jpeg)
+![](/finasell/docs/assets/images/IMG_0080.jpeg)
 
-![](__GHOST_URL__/content/images/2022/01/IMG_0376.jpeg)
+![](/finasell/docs/assets/images/IMG_0376.jpeg)
 
-![](__GHOST_URL__/content/images/2022/01/IMG_3701.jpg)
+![](/finasell/docs/assets/images/IMG_3701.jpg)
 
 Сауни та аксесуари з України в ЄС
 ### 
 Двері
 
-![](__GHOST_URL__/content/images/2022/02/IMG_1199.jpg)
+![](/finasell/docs/assets/images/IMG_1199.jpg)
 
-![](__GHOST_URL__/content/images/2022/02/IMG_5497--1-.jpg)
+![](/finasell/docs/assets/images/IMG_5497--1-.jpg)
 
 Одна фото зроблене в українського виробника, а друге - у французького. Фото вулиці відрізнити набагато легше, ніж фото з виробництва.
 ### Туристичні товари
 
-![](__GHOST_URL__/content/images/2022/02/IMG_20110523_111800.jpg)
+![](/finasell/docs/assets/images/IMG_20110523_111800.jpg)
 
-![](__GHOST_URL__/content/images/2022/02/gas.jpg)
+![](/finasell/docs/assets/images/gas.jpg)
 
 Пакувальний лист доставлений за 48 годин з Шенчженю до Одеси. Китайці виправляли свої помилки за допомогою DHL. В туристичних газових плитах корейські балони щільно прилягали, а китайські були коротші на декілька мм і могли пропускати газ!
 Залишилися питання? Пишіть на inbox@finasell.com . Всі листи читаю особисто.
