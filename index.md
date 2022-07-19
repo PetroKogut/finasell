@@ -1,7 +1,7 @@
 # Finasell 
 ## Хто і чим корисний?
 Менеджер з експорту 🌍. Допомагаю B2B компаніям експортувати. Знаходжу клієнтів, організую поставки та оплати. Беру на себе участь в тендерах та виставках.
-![UZS](/finasell/docs/assets/images/IMG_4572.jpeg)<sup>100$ в узбецьких сомах. До валютної реформи 2017 року існував потужний чорний ринок валюти.</sup>
+![UZS](https://github.com/PetroKogut/finasell/raw/gh-pages/docs/assets/images/IMG_4572.jpeg)<sup>100$ в узбецьких сомах. До валютної реформи 2017 року існував потужний чорний ринок валюти.</sup>
 ## ✅ Коли до мене звертатися
 
 - Ви шукаєте дистрибюторів. В 🇪🇺ЄС або на 🕋сході . [Країни тут](#%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8).
@@ -33,7 +33,7 @@
 - 📞 Онлайн розмова 60 хв.‌‌ Презентація результатів та рекомендації що робити далі. Постановка цілей на наступні етапи. 
 
 ### 🏃Вихід на ринок
-![](/finasell/docs/assets/images/IMG_2440.jpeg)Перший документ на столі - CFR 1. Заява про видання сертифікату резиденції для компанії в Польщі. 
+![](https://github.com/PetroKogut/finasell/raw/gh-pages/docs/assets/images/IMG_2440.jpeg)Перший документ на столі - CFR 1. Заява про видання сертифікату резиденції для компанії в Польщі. 
 
 	💡*Приклад. *Передоплата 100%. Термін реалізації 270-365 календарних днів. У звʼязку з оголошеним станом пандемії (пункт форс-мажор в контракті) штрафні санкції за нетермінове виконання не нараховуються. **Це реальні умови від виробника в якого немає конкурентів.**
 
@@ -67,7 +67,7 @@
 	Оптимально робити до 5 днів або 10 зустрічей.  Хіба що дорога в одну сторону займає цілий день. Напрклад, з Кракова в Алмати. Легко поєднати з виставкою. Можемо проїхатися разом. 
 
 ### 🚛Допомога з контрактом та першою поставкою
-![](/finasell/docs/assets/images/Screenshot-2022-02-08-at-18.27.39.png)Система TRACES. Вибір типу CHED для заповнення.
+![](https://github.com/PetroKogut/finasell/raw/gh-pages/docs/assets/images/Screenshot-2022-02-08-at-18.27.39.png)Система TRACES. Вибір типу CHED для заповнення.
 
 💡Контракти з інтернету мають вписану умову поставки EXW склад постачальника. А на практиці - я ще не зустрів постачальника, котрий не завантажив товар на транспорт і не зробив митного оформлення. Хоч це вже FCA а не EXW.
 
@@ -82,7 +82,7 @@
 
 ## 🔐Участь в тендері ‌
 
-![](/finasell/docs/assets/images/KGP_Order.jpg)
+![](https://github.com/PetroKogut/finasell/raw/gh-pages/docs/assets/images/KGP_Order.jpg)
 
 Замовлення від Головного бюро поліції Польщі, відділ управління авіації - результат виграного тендеру😎
 Базові етапи:
@@ -97,13 +97,13 @@
 
 ### 🤵‍♂️ Виставка - експозиція
 
-![](/finasell/docs/assets/images/IMG_0054.jpeg)
+![](https://github.com/PetroKogut/finasell/raw/gh-pages/docs/assets/images/IMG_0054.jpeg)
 
-![](/finasell/docs/assets/images/IMG_0051.jpeg)
+![](https://github.com/PetroKogut/finasell/raw/gh-pages/docs/assets/images/IMG_0051.jpeg)
 
-![](/finasell/docs/assets/images/IMG_0050.jpeg)
+![](https://github.com/PetroKogut/finasell/raw/gh-pages/docs/assets/images/IMG_0050.jpeg)
 
-![](/finasell/docs/assets/images/IMG_1917.jpeg)
+![](https://github.com/PetroKogut/finasell/raw/gh-pages/docs/assets/images/IMG_1917.jpeg)
 
 Базові етапи:
 
@@ -129,7 +129,7 @@
 - 📞Онлайн розмова 60 хв. Звіт, нотатки та контакти
 
 ### 📦Почати продажі на  платформах
-![](/finasell/docs/assets/images/baselinker_-marketplace-list.png)Синхронізація товарів з платформами через Baselinker
+![](https://github.com/PetroKogut/finasell/raw/gh-pages/docs/assets/images/baselinker_-marketplace-list.png)Синхронізація товарів з платформами через Baselinker
 
 💡З 1 липня 2021 року в ЄС почав працювати VAT OSS і на всі посилки з третіх країн нараховується ПДВ.
 
@@ -175,63 +175,63 @@
 
 ### Авіація загального призначення
 
-![](/finasell/docs/assets/images/IMG_9252.jpeg)
+![](https://github.com/PetroKogut/finasell/raw/gh-pages/docs/assets/images/IMG_9252.jpeg)
 
-![](/finasell/docs/assets/images/IMG_9460.jpeg)
+![](https://github.com/PetroKogut/finasell/raw/gh-pages/docs/assets/images/IMG_9460.jpeg)
 
-![](/finasell/docs/assets/images/IMG_9196.jpeg)
+![](https://github.com/PetroKogut/finasell/raw/gh-pages/docs/assets/images/IMG_9196.jpeg)
 
 Авіоніка Garmin, Honeywell; Програми Jeppesen та SkyDemon; Запчастни та розхідні матеріали Textron Aviation, Boeing(Aviall), Orolia
 ### Обладнання та конструкції для харчової промисловості
 
-![](/finasell/docs/assets/images/IMG_1042.jpeg)
+![](https://github.com/PetroKogut/finasell/raw/gh-pages/docs/assets/images/IMG_1042.jpeg)
 
-![](/finasell/docs/assets/images/IMG_1794.jpeg)
+![](https://github.com/PetroKogut/finasell/raw/gh-pages/docs/assets/images/IMG_1794.jpeg)
 
-![](/finasell/docs/assets/images/IMG_2116.jpeg)
+![](https://github.com/PetroKogut/finasell/raw/gh-pages/docs/assets/images/IMG_2116.jpeg)
 
-![](/finasell/docs/assets/images/IMG_3587.jpeg)
+![](https://github.com/PetroKogut/finasell/raw/gh-pages/docs/assets/images/IMG_3587.jpeg)
 
-![](/finasell/docs/assets/images/IMG_3594.jpeg)
+![](https://github.com/PetroKogut/finasell/raw/gh-pages/docs/assets/images/IMG_3594.jpeg)
 
 ### Системи водовідведення з нержавіючої сталі та промислові підлоги.
 
-![](/finasell/docs/assets/images/IMG_0053.jpeg)
+![](https://github.com/PetroKogut/finasell/raw/gh-pages/docs/assets/images/IMG_0053.jpeg)
 
-![](/finasell/docs/assets/images/IMG_3983.jpeg)
+![](https://github.com/PetroKogut/finasell/raw/gh-pages/docs/assets/images/IMG_3983.jpeg)
 
-![](/finasell/docs/assets/images/IMG_4535.jpeg)
+![](https://github.com/PetroKogut/finasell/raw/gh-pages/docs/assets/images/IMG_4535.jpeg)
 
-![](/finasell/docs/assets/images/IMG_1794-1.jpeg)
+![](https://github.com/PetroKogut/finasell/raw/gh-pages/docs/assets/images/IMG_1794-1.jpeg)
 
-![](/finasell/docs/assets/images/IMG_5207.jpeg)
+![](https://github.com/PetroKogut/finasell/raw/gh-pages/docs/assets/images/IMG_5207.jpeg)
 
-![](/finasell/docs/assets/images/IMG_5471.jpeg)
+![](https://github.com/PetroKogut/finasell/raw/gh-pages/docs/assets/images/IMG_5471.jpeg)
 
-![](/finasell/docs/assets/images/IMG_6188.jpeg)
+![](https://github.com/PetroKogut/finasell/raw/gh-pages/docs/assets/images/IMG_6188.jpeg)
 
 ### Сауни
 
-![](/finasell/docs/assets/images/IMG_0080.jpeg)
+![](https://github.com/PetroKogut/finasell/raw/gh-pages/docs/assets/images/IMG_0080.jpeg)
 
-![](/finasell/docs/assets/images/IMG_0376.jpeg)
+![](https://github.com/PetroKogut/finasell/raw/gh-pages/docs/assets/images/IMG_0376.jpeg)
 
-![](/finasell/docs/assets/images/IMG_3701.jpg)
+![](https://github.com/PetroKogut/finasell/raw/gh-pages/docs/assets/images/IMG_3701.jpg)
 
 Сауни та аксесуари з України в ЄС
 ### 
 Двері
 
-![](/finasell/docs/assets/images/IMG_1199.jpg)
+![](https://github.com/PetroKogut/finasell/raw/gh-pages/docs/assets/images/IMG_1199.jpg)
 
-![](/finasell/docs/assets/images/IMG_5497--1-.jpg)
+![](https://github.com/PetroKogut/finasell/raw/gh-pages/docs/assets/images/IMG_5497--1-.jpg)
 
 Одна фото зроблене в українського виробника, а друге - у французького. Фото вулиці відрізнити набагато легше, ніж фото з виробництва.
 ### Туристичні товари
 
-![](/finasell/docs/assets/images/IMG_20110523_111800.jpg)
+![](https://github.com/PetroKogut/finasell/raw/gh-pages/docs/assets/images/IMG_20110523_111800.jpg)
 
-![](/finasell/docs/assets/images/gas.jpg)
+![](https://github.com/PetroKogut/finasell/raw/gh-pages/docs/assets/images/gas.jpg)
 
 Пакувальний лист доставлений за 48 годин з Шенчженю до Одеси. Китайці виправляли свої помилки за допомогою DHL. В туристичних газових плитах корейські балони щільно прилягали, а китайські були коротші на декілька мм і могли пропускати газ!
 Залишилися питання? Пишіть на inbox@finasell.com . Всі листи читаю особисто.
